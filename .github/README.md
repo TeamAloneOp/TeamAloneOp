@@ -51,7 +51,7 @@ class Alone():
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/telegram_icon.png" width="60px">](https://t.me/ALONE_WAS_BOT) [<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/github_icon.png" width="60px">](https://github.com/TeamAloneOp) [<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025) [<img src="https://github.com/TeamAloneOp/TeamAloneOp/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/_itzz_alone_op)
+[<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/telegram_icon.png" width="60px">](https://t.me/ALONE_WAS_BOT) [<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/github_icon.png" width="60px">](https://github.com/TeamAloneOp) [<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/youtube_icon.png" width="60px">]
 
 [<img src="https://github.com/TeamAloneOp/TeamAloneOp/blob/master/resources/hr.gif"/>](https://github.com/TeamAloneOp)
 
