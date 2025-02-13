@@ -9,7 +9,7 @@
 [<img src="https://github.com/TeamAloneOp/TeamAloneOp/blob/master/resources/hr.gif"/>](https://github.com/TeamAloneOp)
 
 <p align="center">
-<img src="https://telegra.ph/file/42d6e602b9a097f879fb0.jpg">
+<img src="https://envs.sh/Eqq.mp4">
 </p>
 
 [<img src="https://raw.githubusercontent.com/TeamAloneOp/TeamAloneOp/master/resources/hr.gif"/>](https://github.com/TeamAloneOp)
